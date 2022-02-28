@@ -6,4 +6,4 @@ radio_cuadrado = (radio * radio)
 
 resultado = (radio_cuadrado * pi)
 
-print("El área de a circunferencia es:", resultado, "cm2")
+print("El área del circulo es:", resultado, "cm2")
